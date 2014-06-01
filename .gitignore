@@ -1,0 +1,6 @@
+.buildwrapper
+.ghci
+.idea
+dist
+stage
+*.iml
